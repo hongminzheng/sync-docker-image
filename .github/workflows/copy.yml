@@ -10,7 +10,7 @@ on:
       destination:
         description: '目标源 (Registry)'
         required: true
-        default: 'crpi-pqx7h0os4ccuo5j0.cn-hangzhou.personal.cr.aliyuncs.com/hongminzheng/home-assistant'
+        default: 'crpi-pqx7h0os4ccuo5j0.cn-hangzhou.personal.cr.aliyuncs.com'
       source_repo:
         description: '仓库及标签 (格式 repo:tag)'
         required: true
